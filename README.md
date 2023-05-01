@@ -2,14 +2,14 @@
 This project aims to perform Social Network Analysis (SNA) on the Slashdot dataset to understand the relationships and interactions between users within the Slashdot community. The dataset consists of friend and foe relationships between the users of Slashdot, gathered in February 2009.
 
 
-##Dataset Information
+## Dataset Information
 
 Source: Slashdot Zoo social network from February 2009
 Nodes: 82,168
 Edges: 948,464
 
 
-##Stages of the Project
+## Stages of the Project
 
 Data Preparation: In this stage, we will preprocess the dataset, clean it, and transform it into a suitable format for analysis. This may involve removing duplicates, handling missing data, and formatting the dataset into a network graph.
 
@@ -27,7 +27,7 @@ Visualization: We will create visualizations to better understand the network st
 
 Recommendation System: Based on the insights from the analysis, we can develop a recommendation system to suggest new friends or content to users based on their interests and network connections.
 
-##Potential Outcomes
+## Potential Outcomes
 
 Identification of influential users within the Slashdot community
 Understanding the community structure and dynamics
