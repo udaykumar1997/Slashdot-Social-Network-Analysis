@@ -11,7 +11,7 @@ Nodes: 82,168
 Edges: 948,464
 
 First 10 lines of the dataset:
-```python
+```txt
 # Directed graph (each unordered pair of nodes is saved once): Slashdot0902.txt 
 # Slashdot Zoo social network from February 0 2009
 # Nodes: 82168 Edges: 948464
@@ -42,6 +42,11 @@ Visualization: We will create visualizations to better understand the network st
 ## Potential Outcomes
 
 Understanding the community structure and dynamics
+
 Visual representations of the network structure, communities and other findings
+
+---
+
 Identification of influential users within the Slashdot community
+
 Prediction of potential new relationships between users
