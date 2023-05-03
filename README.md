@@ -48,5 +48,5 @@ Visual representations of the network structure, communities and other findings
 ---
 
 Identification of influential users within the Slashdot community
-
+---
 Prediction of potential new relationships between users
