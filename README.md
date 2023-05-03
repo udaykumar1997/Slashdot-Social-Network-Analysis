@@ -11,7 +11,7 @@ Nodes: 82,168
 Edges: 948,464
 
 First 10 lines of the dataset:
-```
+```txt
 # Directed graph (each unordered pair of nodes is saved once): Slashdot0902.txt 
 # Slashdot Zoo social network from February 0 2009
 # Nodes: 82168 Edges: 948464
