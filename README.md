@@ -4,11 +4,23 @@ This project aims to perform Social Network Analysis (SNA) on the Slashdot datas
 
 ## Dataset Information
 
-Source: Slashdot Zoo social network from February 2009 [Link](https://snap.stanford.edu/data/soc-Slashdot0902.html)
+[Slashdot Zoo social network February 2009 Dataset Link](https://snap.stanford.edu/data/soc-Slashdot0902.html)
 
-Nodes: 82,168
+[Slashdot](https://slashdot.org/) is a technology-related news website know for its specific user community. The website features user-submitted and editor-evaluated current primarily technology oriented news. In 2002 Slashdot introduced the Slashdot Zoo feature which allows users to tag each other as friends or foes. The network cotains friend/foe links between the users of Slashdot. The network was obtained in February 2009.
 
-Edges: 948,464
+### Dataset Statistics
+
+- Nodes: 82,168
+- Edges: 948,464
+- Nodes in largest weakly connected component (WCC): 82,168 (100%)
+- Edges in largest WCC: 948,464 (100%)
+- Nodes in largest strongly connected component (SCC): 71,307 (86.8%)
+- Edges in largest SCC: 912,381 (96.2%)
+- Average clustering coefficient: 0.0603
+- Number of triangles: 602,592
+- Fraction of closed triangles: 0.008168
+- Diameter (longest shortest path): 11
+- 90th percentile effective diameter: 4.7
 
 First 10 lines of the dataset:
 ```txt
@@ -36,6 +48,7 @@ Community Detection: We will identify and analyze communities within the Slashdo
 Centrality Measures: We will compute and analyze various centrality measures such as degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality to identify influential users within the network.
 
 Link Prediction: We will apply link prediction techniques to predict potential new relationships between users based on their current network structure. This can help identify users who are likely to become friends or foes in the future.
+
 Visualization: We will create visualizations to better understand the network structure, including node-link diagrams, adjacency matrices, and heatmaps.
 
 ## Potential Outcomes
