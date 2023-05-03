@@ -5,7 +5,9 @@ This project aims to perform Social Network Analysis (SNA) on the Slashdot datas
 ## Dataset Information
 
 Source: Slashdot Zoo social network from February 2009 Link[https://snap.stanford.edu/data/soc-Slashdot0902.html]
+
 Nodes: 82,168
+
 Edges: 948,464
 
 
