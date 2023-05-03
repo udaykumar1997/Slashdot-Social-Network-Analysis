@@ -43,6 +43,7 @@ Visualization: We will create visualizations to better understand the network st
 Understanding the community structure and dynamics
 
 Visual representations of the network structure, communities and other findings
+
 Identification of influential users within the Slashdot community
 
 Prediction of potential new relationships between users
