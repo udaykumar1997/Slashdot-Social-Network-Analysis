@@ -36,7 +36,6 @@ Community Detection: We will identify and analyze communities within the Slashdo
 Centrality Measures: We will compute and analyze various centrality measures such as degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality to identify influential users within the network.
 
 Link Prediction: We will apply link prediction techniques to predict potential new relationships between users based on their current network structure. This can help identify users who are likely to become friends or foes in the future.
-
 Visualization: We will create visualizations to better understand the network structure, including node-link diagrams, adjacency matrices, and heatmaps.
 
 ## Potential Outcomes
@@ -44,9 +43,6 @@ Visualization: We will create visualizations to better understand the network st
 Understanding the community structure and dynamics
 
 Visual representations of the network structure, communities and other findings
-
----
-
 Identification of influential users within the Slashdot community
----
+
 Prediction of potential new relationships between users
