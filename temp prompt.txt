@@ -1,0 +1,7 @@
+I've been able to import the file into 'data' using pd.read_csv()
+
+
+
+Number of nodes: 82168
+Number of edges: 948464
+Average clustering coefficient: 0.05717480710273257
