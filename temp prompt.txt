@@ -1,4 +1,10 @@
-I get the following error with 
-partition = community_louvain.best_partition(undirected_G)
+I've commented out the following lines due to compute constraints:
+betweenness_centrality = nx.betweenness_centrality(G)
+closeness_centrality = nx.closeness_centrality(G)
+nx.set_node_attributes(G, betweenness_centrality, "betweenness_centrality")
+nx.set_node_attributes(G, closeness_centrality, "closeness_centrality")
 
-AttributeError: module 'community' has no attribute 'best_partition'
+I want to know what kind of impact it may have on our subsequent analysis.
+
+data_dir = "path"
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
