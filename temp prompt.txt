@@ -1,0 +1,7 @@
+This is how I currently import the datafile:
+file_path = "soc-Slashdot0902.txt"
+data = pd.read_csv(file_path, sep="\t", skiprows=4, names=["FromNodeId", "ToNodeId"])
+
+How do I just import just 30% of the data file?
+I'm not able to generate a lot of the analysis due to compute constraints.
+I hope you have enough context about the dataset.
