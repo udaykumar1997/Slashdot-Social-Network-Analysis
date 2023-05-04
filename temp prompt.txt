@@ -1,0 +1,4 @@
+I get the following error with 
+partition = community_louvain.best_partition(undirected_G)
+
+AttributeError: module 'community' has no attribute 'best_partition'
