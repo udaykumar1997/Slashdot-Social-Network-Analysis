@@ -1,0 +1,44 @@
+Slide 1: Title Slide
+- "Hello everyone, today I'll be presenting my analysis of the world trade network from 2000 to 2018. I'll be discussing the evolution of this network, its impact on wealth distribution, and the identification of key countries and communities."
+
+Slide 2: Problem Statement
+- "The purpose of this analysis is to examine the evolution of the global trade network over time and investigate how it has impacted wealth distribution. We will also be identifying key countries and communities within the network to better understand their roles in shaping the global trade landscape."
+
+Slide 3: Dataset Explanation
+- "The dataset used in this analysis was extracted from Kaggle and covers the years 2000 to 2018. The network consists of 6470 nodes, representing countries, and 4737 edges, representing trade relationships between these countries. This dataset allows us to examine the global trade network on a comprehensive scale, providing insights into its structure and dynamics."
+
+Slide 4: Descriptive Statistics (I)
+- "Before diving into the analysis, let's first take a look at some descriptive statistics. The network is composed of 2170 communities, and the average in-degree and out-degree for each node is 0.73. This slide shows a general visualization of the entire graph, providing an overview of the network's structure."
+
+Slide 5: Descriptive Statistics (II)
+- "In this slide, we are looking at the top 10 nodes by degree centrality and betweenness centrality. Degree centrality measures the number of direct connections a node has, while betweenness centrality captures the extent to which a node serves as a bridge between other nodes. The visualization here shows the network with different node colors based on their betweenness centrality values, highlighting the most central nodes."
+
+Slide 6: Descriptive Statistics (III)
+- "Continuing with our examination of centrality measures, this slide presents the top 10 nodes by closeness centrality and eigenvector centrality. Closeness centrality measures how close a node is to all other nodes in the network, while eigenvector centrality considers the importance of a node's neighbors. The visualization here shows the network with a spectral layout, emphasizing the community structures within the network."
+
+Slide 7: Analytical Approach
+- "Our analytical approach consists of examining various centrality measures, including degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality. Additionally, we will analyze the community structure of the network to gain insights into the relationships between different countries and regions."
+
+Slide 8: Degree Centrality Findings
+- "This slide shows the distribution of degree centrality values across the network. Degree centrality provides us with an understanding of how connected each node is within the network. A higher degree centrality value indicates a higher number of direct connections with other nodes."
+
+Slide 9: In-degree & Out-degree Findings
+- "Here, we see the distribution of in-degree and out-degree values across the network. In-degree refers to the number of incoming connections a node has, while out-degree represents the number of outgoing connections. These measures can provide insights into the balance of trade relationships for each country."
+
+Slide 10: Betweenness Centrality Findings
+- "This slide presents the distribution of betweenness centrality values across the network. As mentioned earlier, betweenness centrality measures the extent to which a node serves as a bridge between other nodes. This can indicate a country's role in connecting different regions and facilitating global trade."
+
+Slide 11: Closeness Centrality Findings
+- "On this slide, we have the distribution of closeness centrality values across the network. Closeness centrality measures how close a node is to all other nodes in the network. A higher closeness centrality value implies that a country is more connected and can reach other countries more quickly, which can be advantageous in trade relationships."
+
+Slide 12: Eigenvector Centrality Findings
+- "In this slide, we present the distribution of eigenvector centrality values across the network. Eigenvector centrality considers the importance of a node's neighbors, meaning that a node with high eigenvector centrality is connected to other nodes that are themselves well-connected. This measure can help us identify influential countries within the global trade network."
+
+Slide 13: Community Structure Findings
+- "This slide focuses on the community structure of the network. We detected 2170 communities, which represent groups of countries with strong trade connections among themselves. Understanding these communities can help us identify regional trade blocs and potential areas for trade expansion."
+
+Slide 14: Interpretations of Findings and Recommendations
+- "Our analysis of the global trade network has provided valuable insights into the structure and dynamics of international trade. Key countries and communities have been identified, offering a better understanding of the roles they play in shaping the global trade landscape. Based on our findings, we recommend focusing on the development of trade relationships with countries that have high centrality values, as they are likely to be influential players in the network. Additionally, exploring potential trade opportunities within identified communities can help expand trade networks and promote economic growth."
+
+Slide 15: Conclusion
+- "In conclusion, our analysis of the global trade network from 2000 to 2018 has provided valuable insights into the evolution of the network, its impact on wealth distribution, and the identification of key countries and communities. Thank you for your attention, and I'll be happy to take any questions you may have."
