@@ -1,7 +1,7 @@
 # Slashdot Social Network Analysis
 This project aims to perform Social Network Analysis (SNA) on the Slashdot dataset to understand the relationships and interactions between users within the Slashdot community. The dataset consists of friend and foe relationships between the users of Slashdot, gathered in February 2009.
 
-Information about the dataset can be found in the 'Dataset Information.md' file, in the parent folder of this project.
+Information about the dataset can be found in the `Dataset Information.md` file, in the parent folder of this project. The data file is named `soc-Slashdot0902.txt`, and is available in the parent directory.
 
 ## Stages of the Project
 

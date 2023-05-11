@@ -31,3 +31,5 @@ First 10 lines of the dataset:
 0	4
 0	5
 ```
+
+The data file is named `soc-Slashdot0902.txt`, and is available in the parent directory.
